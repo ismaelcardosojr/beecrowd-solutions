@@ -1,6 +1,6 @@
 # Beecrowd Solutions 🐝
 
-Here you'll find my Beecrowd solutions, which...
+Here you'll find my solutions, which...
 
 * Are divided by category > difficulty
 * Go from level 4 upwards
