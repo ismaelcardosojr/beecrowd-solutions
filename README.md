@@ -8,4 +8,4 @@ Here you'll find my solutions, which...
 Beecrowd is "a professional services digital platform. They empower students and technology professionals". They also provide exercises for devs who want to test and improve their skills.
 
 * 🏆 Goal: **380/400 of solved exercises** 
-* 👤 Profile: https://www.beecrowd.com.br/judge/en/users/statistics/698004
+* 👤 Profile: www.beecrowd.com.br/judge/en/profile/698004
