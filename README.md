@@ -1,9 +1,11 @@
 # Beecrowd Solutions 🐝
 
-Here, you'll find all my Beecrowd solutions, which:
+Here you'll find my Beecrowd solutions, which...
 
 * Are divided by category > difficulty
 * Go from level 4 upwards
 
-- 🏆 My goal: **380/400 of solved exercises**
-- 👤 My profile: https://www.beecrowd.com.br/judge/en/profile/698004
+Beecrowd is "a professional services digital platform. They empower students and technology professionals". They also provide exercises for devs who want to test and improve their skills.
+
+* 🏆 Goal: **380/400 of solved exercises** 
+* 👤 Profile: beecrowd.com.br/judge/en/profile/698004
