@@ -1,7 +1,7 @@
 # Beecrowd Solutions 🐝
 
 * 👤 Profile: www.beecrowd.com.br/judge/en/profile/698004
-* 🏆 Goal: **447/1000 solved exercises**
+* 🏆 Goal: **448/1000 solved exercises**
 
 I'd like to point out that my solutions...
 
