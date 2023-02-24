@@ -52,5 +52,7 @@ public class B1040 {
                 System.out.println("Media final: " + media);
             }
         }
+
+        input.close();
     }
 }
