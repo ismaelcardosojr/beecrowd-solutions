@@ -1,7 +1,7 @@
 # Beecrowd Solutions 🐝
 
 * 👤 Profile: www.beecrowd.com.br/judge/en/profile/698004
-* 🏆 Solved Exercises: **471**
+* 🏆 Solved Exercises: **472**
 
 I'd like to point out that my solutions...
 
